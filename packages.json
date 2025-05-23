@@ -1,6 +1,7 @@
 [
   {
     "package": "Pmetrics",
-    "url": "https://github.com/LAPKB/pmetrics_rust"
+    "url": "https://github.com/LAPKB/pmetrics_rust",
+    "branch": "*release"
   }
 ]
