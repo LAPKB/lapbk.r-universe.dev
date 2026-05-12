@@ -3,5 +3,20 @@
     "package": "Pmetrics",
     "url": "https://github.com/LAPKB/Pmetrics",
     "branch": "*release"
+  },
+    {
+    "package": "PmetricsLitSim",
+    "url": "https://github.com/LAPKB/PmetricsLitSim",
+    "branch": "*release"
+  },  {
+    "package": "PmetricsPlot",
+    "url": "https://github.com/LAPKB/PmetricsPlot",
+    "branch": "*release"
+  },
+    {
+    "package": "PmetricsModelLib",
+    "url": "https://github.com/LAPKB/PmetricsModelLib",
+    "branch": "*release"
   }
+
 ]
