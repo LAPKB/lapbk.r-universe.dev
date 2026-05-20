@@ -17,6 +17,11 @@
     "package": "PmetricsModelLib",
     "url": "https://github.com/LAPKB/PmetricsModelLib",
     "branch": "*release"
+  },
+    {
+    "package": "PmetricsReport",
+    "url": "https://github.com/LAPKB/PmetricsReport",
+    "branch": "*release"
   }
 
 ]
