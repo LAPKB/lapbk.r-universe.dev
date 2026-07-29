@@ -22,6 +22,17 @@
     "package": "PmetricsReports",
     "url": "https://github.com/LAPKB/PmetricsReports",
     "branch": "*release"
+  },
+    {
+    "package": "PmetricsExplorer",
+    "url": "https://github.com/LAPKB/PmetricsExplorer",
+    "branch": "*release"
+  },
+    {
+    "package": "PmetricsWorld",
+    "url": "https://github.com/LAPKB/PmetricsWorld",
+    "branch": "*release"
   }
+  
 
 ]
